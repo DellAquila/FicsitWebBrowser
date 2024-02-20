@@ -1,0 +1,11 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "0879ABDF8930FFA0B835DBEBE6A2D9F9FAC170EA",
+			"Assets": [
+				"/FicsitWebBrowser/SC_MatWeb"
+			]
+		}
+	]
+}

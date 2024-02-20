@@ -1,0 +1,214 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/8653971.uasset",
+			"ChunkId": "6d2ce9db02bc2ff300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/8653971.ubulk",
+			"ChunkId": "6d2ce9db02bc2ff300000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Arrow.uasset",
+			"ChunkId": "3b5ce3ce1421664600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Arrow.ubulk",
+			"ChunkId": "3b5ce3ce1421664600000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Build_ScreenWeb.uasset",
+			"ChunkId": "2dbfbd4b5338a53800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Button_Wiki.uasset",
+			"ChunkId": "624c003b2330856f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/ChatCommand.uasset",
+			"ChunkId": "14be8b2143cefa9900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Desc_ScreenWeb.uasset",
+			"ChunkId": "167539fc412a797c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Module_Web.uasset",
+			"ChunkId": "43bd50a6b7f874f000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Rec_ScreenWeb.uasset",
+			"ChunkId": "3c4fa78a0f2dbf6e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/SC_MatWeb.uasset",
+			"ChunkId": "a5a30984a0d1e2b300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Schem_Web.uasset",
+			"ChunkId": "64e9d450f82e2d9e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/SM_blackvoid-web.uasset",
+			"ChunkId": "1e9dd489cabb4de300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/SM_blackvoid-web.ubulk",
+			"ChunkId": "1e9dd489cabb4de300000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/smallloogo.uasset",
+			"ChunkId": "56c53185b360c6a900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/smallloogo.ubulk",
+			"ChunkId": "56c53185b360c6a900000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/web1.uasset",
+			"ChunkId": "2a487b020bba57ba00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/Web_Subsystem.uasset",
+			"ChunkId": "4a6a29f17a6ce42800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/WebWidget_BlankWidget.uasset",
+			"ChunkId": "99a22e557e6db50c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/WebWidget_Buildable.uasset",
+			"ChunkId": "e27f206658b4853e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/WebWidget_BuildableShow.uasset",
+			"ChunkId": "8edba8ada27df04e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/FicsitWebBrowser/Content/WebWidget_Overlay.uasset",
+			"ChunkId": "795c0cc42d2ef13500000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/FicsitWebBrowser/8653971",
+			"ExportBundleChunkIds": [
+				"6d2ce9db02bc2ff300000001"
+			],
+			"BulkDataChunkIds": [
+				"6d2ce9db02bc2ff300000002"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Arrow",
+			"ExportBundleChunkIds": [
+				"3b5ce3ce1421664600000001"
+			],
+			"BulkDataChunkIds": [
+				"3b5ce3ce1421664600000002"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Build_ScreenWeb",
+			"ExportBundleChunkIds": [
+				"2dbfbd4b5338a53800000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Button_Wiki",
+			"ExportBundleChunkIds": [
+				"624c003b2330856f00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/ChatCommand",
+			"ExportBundleChunkIds": [
+				"14be8b2143cefa9900000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Desc_ScreenWeb",
+			"ExportBundleChunkIds": [
+				"167539fc412a797c00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Module_Web",
+			"ExportBundleChunkIds": [
+				"43bd50a6b7f874f000000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Rec_ScreenWeb",
+			"ExportBundleChunkIds": [
+				"3c4fa78a0f2dbf6e00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/SC_MatWeb",
+			"ExportBundleChunkIds": [
+				"a5a30984a0d1e2b300000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Schem_Web",
+			"ExportBundleChunkIds": [
+				"64e9d450f82e2d9e00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/SM_blackvoid-web",
+			"ExportBundleChunkIds": [
+				"1e9dd489cabb4de300000001"
+			],
+			"BulkDataChunkIds": [
+				"1e9dd489cabb4de300000002"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/smallloogo",
+			"ExportBundleChunkIds": [
+				"56c53185b360c6a900000001"
+			],
+			"BulkDataChunkIds": [
+				"56c53185b360c6a900000002"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/web1",
+			"ExportBundleChunkIds": [
+				"2a487b020bba57ba00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/Web_Subsystem",
+			"ExportBundleChunkIds": [
+				"4a6a29f17a6ce42800000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/WebWidget_BlankWidget",
+			"ExportBundleChunkIds": [
+				"99a22e557e6db50c00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/WebWidget_Buildable",
+			"ExportBundleChunkIds": [
+				"e27f206658b4853e00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/WebWidget_BuildableShow",
+			"ExportBundleChunkIds": [
+				"8edba8ada27df04e00000001"
+			]
+		},
+		{
+			"Name": "/FicsitWebBrowser/WebWidget_Overlay",
+			"ExportBundleChunkIds": [
+				"795c0cc42d2ef13500000001"
+			]
+		}
+	]
+}
